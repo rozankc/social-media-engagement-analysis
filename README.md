@@ -9,6 +9,16 @@ This project analyzes social media engagement patterns using data visualization 
 - Determine optimal posting times and campaign strategies
 - Compare engagement across platforms and regions
 
+## Key Research Questions
+- How does engagement rate vary across content types and weekdays?
+- How does sentiment influence engagement trends over time?
+- What time of day generates the highest engagement?
+- Do certain emotions lead to higher engagement or virality?
+- How does engagement differ across campaign phases?
+- How does sentiment vary across platforms and brands?
+- How do emotions impact campaign performance?
+- Are there geographic differences in engagement rates?
+
 ## Dataset
 - Source: Kaggle (Social Media Engagement Dataset)
 - Features:
@@ -40,7 +50,7 @@ This project analyzes social media engagement patterns using data visualization 
 - Countries like South Korea and Canada show higher engagement rates
 
 ## Dashboard Features
-- Interactive Tableau dashboards
+- Interactive Tableau dashboards https://public.tableau.com/views/WhatDrivesEngagementAVisualDiveintoSentimentTimePlatformStrategy/Storytelling?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - Heatmaps, time-series charts, and boxplots
 - Viz-in-Tooltip for deeper insights
 - Storytelling dashboards for decision-making
