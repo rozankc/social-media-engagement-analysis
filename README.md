@@ -45,16 +45,3 @@ This project analyzes social media engagement patterns using data visualization 
 - Viz-in-Tooltip for deeper insights
 - Storytelling dashboards for decision-making
 
-## My Contributions
-- Designed dashboard storytelling structure
-- Analyzed engagement across campaigns, emotions, and regions
-- Contributed to data analysis and visualization development
-
-## Project Structure
-- `/data` → Dataset (Excel files)
-- `/report` → Final report (PDF/Word)
-- `/presentation` → Slides
-- `/tableau` → Tableau workbook (.twbx)
-
-## Acknowledgment
-This was a group project completed as part of the Data Visualization course at the University of North Texas.
