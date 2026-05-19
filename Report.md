@@ -3,7 +3,6 @@
 
 > **Course:** DSCI 5360 Section 005 — Data Visualization
 > **Institution:** University of North Texas
-> **Date:** December 8, 2025
 
 ---
 
