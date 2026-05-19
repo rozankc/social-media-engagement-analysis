@@ -130,7 +130,7 @@ All calculated fields were created in Tableau:
 ### RQ3 — Horizontal Bar Chart: Time of Day Performance
 
 <p align="center">
-  <img src="images/Images/Picture3.png" alt="RQ3 Time of Day" width="750"/>
+  <img src="Images/Picture3.png" alt="RQ3 Time of Day" width="750"/>
   <br/><em>Figure 3 — Time of Day Performance by Platform</em>
 </p>
 
