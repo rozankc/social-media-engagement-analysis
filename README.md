@@ -27,9 +27,9 @@ With millions of posts competing for attention across social media platforms, un
 
 Using a rich dataset of social media post metrics, we analyzed how **timing**, **content category**, **sentiment**, and **emotional tone** contribute to high engagement. The goal is to provide actionable insights for content strategists and marketers — helping them optimize their publishing calendars, craft more engaging narratives, and strategically leverage emotions for maximum reach.
 
-**Primary tool:** Tableau — for interactive dashboards, calculated fields, and storytelling.
-**AI assistance:** OpenAI and GenAI were used to support initial visualization design, research question development, and report writing.
-**Peer feedback:** Tableau Community Slack was used to iterate on visual encodings, layout decisions, and color schemes.
+**Primary tool:** Tableau — for interactive dashboards, calculated fields, and storytelling. </p>
+**AI assistance:** OpenAI and GenAI were used to support initial visualization design, research question development, and report writing. </p>
+**Peer feedback:** Tableau Community Slack was used to iterate on visual encodings, layout decisions, and color schemes. </p>
 
 ---
 
