@@ -13,10 +13,9 @@
 
 <p><i>A Tableau-powered data visualization project exploring how timing, emotion, sentiment, and geography drive social media engagement across platforms and campaigns.</i></p>
 
-<!-- REPLACE with your dashboard screenshot -->
 <!-- <img src="images/dashboard_banner.png" alt="Dashboard Banner" width="850"/> -->
 
-[![Open in Tableau Public](https://img.shields.io/badge/View%20Dashboard-Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/zuhayir.mustafa/viz/WhatDrivesEngagementAVisualDiveintoSentimentTimePlatformStrategyUpdated/Storytelling?publish=yes)
+[![Open in Tableau Public](https://img.shields.io/badge/View%20Dashboard-Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/roza.naser.khan.chowdhury/viz/WhatDrivesEngagementAVisualDiveintoSentimentTimePlatformStrategy/Storytelling)
 
 </div>
 
