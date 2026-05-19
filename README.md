@@ -100,7 +100,7 @@ All calculated fields were created in Tableau:
 ### RQ1 — Heatmap: Engagement by Content Category & Weekday
 
 <p align="center">
-  <img src="images/Images/Picture1.png" alt="RQ1 Heatmap" width="750"/>
+  <img src="Images/Picture1.png" alt="RQ1 Heatmap" width="750"/>
   <br/><em>Figure 1 — Post Type vs. Weekday Engagement Heatmap</em>
 </p>
 
