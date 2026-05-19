@@ -1,4 +1,4 @@
-<img width="850" height="428" alt="image" src="https://github.com/user-attachments/assets/9919d360-63da-434e-803a-d01c7453a2c1" /><div align="center">
+<div align="center">
 
 # 📊 Social Media Engagement Analysis & Visualization
 ### What Drives Engagement? A Visual Dive into Sentiment, Time & Platform Strategy
@@ -224,7 +224,7 @@ All calculated fields were created in Tableau:
 
 ---
 
-## 🗂️ Dashboard Storytelling
+## Dashboard Storytelling
 
 The final Tableau story is organized into **4 dashboards**:
 
@@ -239,7 +239,7 @@ The final Tableau story is organized into **4 dashboards**:
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
 - **Timing matters** — Product posts peak mid-week; Delivery posts perform best on Sunday evenings (6–9 PM)
 - **Emotion is the strongest engagement driver** — `Happy` and `Excited` consistently outperform `Sad` and `Angry` across campaigns
@@ -260,8 +260,6 @@ The final Tableau story is organized into **4 dashboards**:
 | [Tableau Community Slack](https://tableau-datafam.slack.com) | Peer feedback on visualizations |
 
 ---
-
-
 
 <div align="center">
   <sub>DSCI 5360 — Data Visualization | University of North Texas</sub>
