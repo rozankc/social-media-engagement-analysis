@@ -56,7 +56,7 @@ Visualizations from separate Tableau workbooks were merged into one integrated T
 
 ---
 
-## ❓ Research Questions
+## Research Questions
 
 | # | Research Question |
 |---|-------------------|
